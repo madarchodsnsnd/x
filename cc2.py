@@ -13,7 +13,7 @@ import os
 from datetime import datetime
 
 # Configuration
-OWNER_NAME = "@𝙍𝘼𝙅𝘼𝙍𝘼𝙅909"
+OWNER_NAME = "@RAJARAJ909"
 BOT_NAME = "█▓▒▒░░░@Rajaccheckersbot░░░▒▒▓█"
 ADMIN_IDS = [7681062358]  # Replace with your Telegram ID
 VBV_API_URL = "https://vbv-by-dark-waslost.onrender.com/key=darkwaslost/cc="
